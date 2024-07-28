@@ -1,0 +1,14 @@
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\bin\Debug\net8.0\Estoque_de_produtos.exe
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\bin\Debug\net8.0\Estoque_de_produtos.deps.json
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\bin\Debug\net8.0\Estoque_de_produtos.runtimeconfig.json
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\bin\Debug\net8.0\Estoque_de_produtos.dll
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\bin\Debug\net8.0\Estoque_de_produtos.pdb
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\Estoque_de_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\Estoque_de_produtos.AssemblyInfoInputs.cache
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\Estoque_de_produtos.AssemblyInfo.cs
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\Estoque_de_produtos.csproj.CoreCompileInputs.cache
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\Estoque_de_produtos.dll
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\refint\Estoque_de_produtos.dll
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\Estoque_de_produtos.pdb
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\Estoque_de_produtos.genruntimeconfig.cache
+C:\Users\mayckit\Documents\PROJETOS\Estoque_de_produtos\obj\Debug\net8.0\ref\Estoque_de_produtos.dll

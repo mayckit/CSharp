@@ -1,0 +1,14 @@
+C:\Users\mayckit\Documents\PraticaPato\bin\Debug\net8.0\Pratica-Patos.exe
+C:\Users\mayckit\Documents\PraticaPato\bin\Debug\net8.0\Pratica-Patos.deps.json
+C:\Users\mayckit\Documents\PraticaPato\bin\Debug\net8.0\Pratica-Patos.runtimeconfig.json
+C:\Users\mayckit\Documents\PraticaPato\bin\Debug\net8.0\Pratica-Patos.dll
+C:\Users\mayckit\Documents\PraticaPato\bin\Debug\net8.0\Pratica-Patos.pdb
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\Pratica-Patos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\Pratica-Patos.AssemblyInfoInputs.cache
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\Pratica-Patos.AssemblyInfo.cs
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\Pratica-Patos.csproj.CoreCompileInputs.cache
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\Pratica-Patos.dll
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\refint\Pratica-Patos.dll
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\Pratica-Patos.pdb
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\Pratica-Patos.genruntimeconfig.cache
+C:\Users\mayckit\Documents\PraticaPato\obj\Debug\net8.0\ref\Pratica-Patos.dll
