@@ -1,0 +1,14 @@
+C:\Users\mayckit\Desktop\Atividade-herança\bin\Debug\net8.0\Atividade-herança.exe
+C:\Users\mayckit\Desktop\Atividade-herança\bin\Debug\net8.0\Atividade-herança.deps.json
+C:\Users\mayckit\Desktop\Atividade-herança\bin\Debug\net8.0\Atividade-herança.runtimeconfig.json
+C:\Users\mayckit\Desktop\Atividade-herança\bin\Debug\net8.0\Atividade-herança.dll
+C:\Users\mayckit\Desktop\Atividade-herança\bin\Debug\net8.0\Atividade-herança.pdb
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\Atividade-herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\Atividade-herança.AssemblyInfoInputs.cache
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\Atividade-herança.AssemblyInfo.cs
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\Atividade-herança.csproj.CoreCompileInputs.cache
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\Atividade-herança.dll
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\refint\Atividade-herança.dll
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\Atividade-herança.pdb
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\Atividade-herança.genruntimeconfig.cache
+C:\Users\mayckit\Desktop\Atividade-herança\obj\Debug\net8.0\ref\Atividade-herança.dll
